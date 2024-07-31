@@ -17,6 +17,312 @@
       "categoryname": "Authentication",
       "eventcount": 3,
       "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1685829420000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1695829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1645829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1635829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1625829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
+    },
+    {
+      "sourceip": "192.168.1.10",
+      "destinationip": "8.8.8.8",
+      "username": null,
+      "logsourceid": 12345,
+      "categoryname": "Network Traffic",
+      "eventcount": 1,
+      "starttime": 1675829320000
+    },
+    {
+      "sourceip": "192.168.1.20",
+      "destinationip": "192.168.1.30",
+      "username": "admin",
+      "logsourceid": 54321,
+      "categoryname": "Authentication",
+      "eventcount": 3,
+      "starttime": 1675829325000
     }
   ]
 }

@@ -21,5 +21,10 @@ class SearchRequest(BaseModel):
 
 
 class SearchResponse(BaseModel):
-    search_id: str
+    cursor_id: str
     record_count: int
+
+
+class SearchStatus(BaseModel):
+    completed: bool
+    cursor_id: str

@@ -56,17 +56,17 @@ with col1:
         with st.spinner("Searching..."):
             try:
                 response = requests.post(
-                    "http://127.0.0.1:8000/searches",
-                    json=SearchRequest(query_expression=query).dict(),
-                    timeout=10  # Add timeout to handle long searches
+                    "http://127.0.0.1:8000/api/ariel/searches",
+                    json={"query_expression": query},  # No need for .dict()
+                    timeout=15  # Increased timeout for potentially longer searches
                 )
-                response.raise_for_status()  # Raise exception for bad responses
+                response.raise_for_status()
 
-                search_id = response.json()["search_id"]
+                search_id = response.json()["cursor_id"]
                 st.success(f"Search created with ID: {search_id}")
 
                 result_response = requests.get(
-                    f"http://127.0.0.1:8000/searches/{search_id}/results"
+                    f"http://127.0.0.1:8000/api/ariel/searches/{search_id}/results"
                 )
                 result_response.raise_for_status()
 
